@@ -1,0 +1,13 @@
+hello world !!!
+take input from user 
+and the values
+
+ex - submit data to the database
+
+to skip the staging part that is git add, use (git commit -a -m "")
+git diff to see changes which have been made in the code
+
+
+tomorrow will start with git remove file
+
+to remove a file from git first remove it by git rm --cached xyz.txt and then delete it from editor too
